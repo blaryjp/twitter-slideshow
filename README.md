@@ -65,7 +65,7 @@ Services actuellement pris en charge - Service currently managed
 Téléchargement - Download
 -------------------------
 
-/
+Google Chrome Web Store : https://chrome.google.com/webstore/detail/dphcimgkdmgbfalcacldkcoedhbkijde
 
 
 Références - Links
