@@ -252,11 +252,11 @@
 				'margin-right': '5px'
 			});
 			
-			$(document).on('mouseenter', '#' + name + ' a:first-child', function() {
+			$(document).on('mouseenter', '#' + name + ' a.close', function() {
 				$(this).css('opacity', 0.6);
-			}).on('mouseleave', '#' + name + ' a:first-child', function() {
+			}).on('mouseleave', '#' + name + ' a.close', function() {
 				$(this).css('opacity', 0.2);
-			}).on('click', '#' + name + ' a:first-child', function() {
+			}).on('click', '#' + name + ' a.close', function() {
 				$popup.slideUp('slow', function() {
 					// OK, record and close.
 					localStorage[name] = "true";
