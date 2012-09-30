@@ -8,7 +8,7 @@ Réactive le carrousel des images miniatures de Twitter. - Reactivates the carou
 Introduction
 ------------
 
-Il y a quelques mois, Twitter a eu la (mauvaise) idée de supprimer l'affichage des miniatures des images dans sa galerie...
+[FR] Il y a quelques mois, Twitter a eu la (mauvaise) idée de supprimer l'affichage des miniatures des images dans sa galerie...
 L'explication "officielle" étant qu'ils sont en train d' "expérimenter" ce nouvel affichage, promettant un retour de cette fonctionnalité prochainement (voir https://dev.twitter.com/discussions/9538)...
 Malheureusement, ça fait plus de 2 mois et on attend toujours... Perso, je trouvais ça vraiment super pratique, donc ça me manque.
 
@@ -17,7 +17,7 @@ En effet, d'après mes constatations personnelles, pour que le système actuel p
 
 ---
 
-A few months ago, Twitter had the (bad) idea to delete the display of thumbnails of the images in the gallery ...
+[EN] A few months ago, Twitter had the (bad) idea to delete the display of thumbnails of the images in the gallery ...
 The "official" explanation is that they are an "experiment" of this new display, promising to return soon to this feature (see https://dev.twitter.com/discussions/9538) ...
 Unfortunately, it has been over 2 months and we are still waiting ...
 
@@ -28,7 +28,7 @@ Indeed, from my personal observations, for that current system still work, they 
 Comment ça marche ? - How it works ?
 ------------------------------------
 
-J'affiche simplement le carrousel en CSS. La récupération des images, par contre, là c'est plus compliqué. Chaque service possède sa propre méthode de récupération des images. Je dois donc procéder au cas-par-cas.
+[FR] J'affiche simplement le carrousel en CSS. La récupération des images, par contre, là c'est plus compliqué. Chaque service possède sa propre méthode de récupération des images. Je dois donc procéder au cas-par-cas.
 Vous retrouverez une liste des services actuellement pris en charge ci-dessous.
 
 Le plus compliqué, c'est pour récupérer les images de Twitter (pic.twitter.com et Photobucket). En effet, une image uploadée sur Twitter, est considérée comme faisant partie du Tweet.
@@ -40,7 +40,7 @@ Vu que c'est un peu lourdingue, j'ai désactivé cette option par défaut. Il su
 
 ---
 
-I simply displays the carousel with CSS. Recovery images, for cons, there is more complicated. Each service has its own method of retrieving images. I must proceed on a case-by-case basis.
+[EN] I simply displays the carousel with CSS. Recovery images, for cons, there is more complicated. Each service has its own method of retrieving images. I must proceed on a case-by-case basis.
 You will find a list of services currently supported below.
 
 The more complicated it is to retrieve images of Twitter (pic.twitter.com and Photobucket). Indeed, an image uploaded on Twitter is considered part of the Tweet.
