@@ -67,6 +67,8 @@ Téléchargement - Download
 
 Google Chrome Web Store : https://chrome.google.com/webstore/detail/dphcimgkdmgbfalcacldkcoedhbkijde
 
+*UPDATE 10/10/2012* : Photobucket new system.
+
 
 Références - Links
 ------------------
