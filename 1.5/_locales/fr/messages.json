@@ -1,0 +1,47 @@
+{
+  "chrome_extension_name": {
+    "message": "Please bring back photo grid view !"
+  },
+  "chrome_extension_description": {
+    "message": "Réactive le carrousel des images miniatures de Twitter."
+  },
+  "page_action_title": {
+    "message": "Please bring back photo grid view !"
+  },
+  
+  "engine_popup_unknown": {
+    "message": "Cette galerie contient un service non reconnu par l'extension. <br> <a href='https://github.com/blaryjp/twitter-slideshow' target='_blank'>N'hésitez pas à me le signaler pour que je le rajoute !</a>"
+  },
+
+  "engine_popup_twimg": {
+    "message": "Twitter limite le nombre de récupération de ses images à 150/heure... <br> <strong>Cependant, vous pouvez forcer le téléchargement en cliquant sur l'option dans l'icône de l'extension dans la barre d'adresse ci-dessus !</strong>"
+  },
+  
+  "popup_input_module": {
+    "message": "Module activé"
+  },
+  
+  "popup_input_twimg": {
+    "message": "Forcer pic.twitter.com"
+  },
+  
+  "popup_info_twimg": {
+    "message": "Twitter limite le nombre de récupération de ses images à 150 par heure. Néanmoins, le module peut forcer le téléchargement des images en utilisant une autre technique, mais celle-ci est plus coûteuse en volume de téléchargement."
+  },
+  
+  "popup_info_services": {
+    "message": "Les services actuellement gérés sont : Twitter, Instagram, Twitpic, Yfrog, Lockerz, Photobucket."
+  },
+  
+  "popup_info_services_sub": {
+    "message": "N'hésitez pas à me contacter si vous souhaitez que j'ajoute un service !"
+  },
+  
+  "popup_reload": {
+    "message": "Rechargez la page pour prendre en compte les modifications."
+  },
+  
+  "popup_website": {
+    "message": "Site web de l'extension"
+  }
+}
