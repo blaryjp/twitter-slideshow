@@ -58,9 +58,9 @@ Services actuellement pris en charge - Service currently managed
 * *Lockerz* : OK.
 * *Twitpic* : OK.
 * *pic.twitter.com* et/and *Photobucket* : OK, mais cas particulier (voir ci-dessus). - OK, but it's a special case (see above).
+* *Photozou.jp* : OK.
 * *Yfrog* : OK, mais images écrasées parfois. - OK, but sometimes smashed images.
 * *Flickr* : En attente d'obtention d'une clé API... - Waiting to obtain an API key...
-
 
 Téléchargement - Download
 -------------------------
@@ -68,7 +68,7 @@ Téléchargement - Download
 Google Chrome Web Store : https://chrome.google.com/webstore/detail/dphcimgkdmgbfalcacldkcoedhbkijde
 
 *UPDATE 10/10/2012* : Photobucket new system.
-
+*UPDATE 01/11/2012* : New : Photozou.jp
 
 Références - Links
 ------------------
