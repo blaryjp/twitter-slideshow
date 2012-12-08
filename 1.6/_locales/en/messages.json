@@ -1,0 +1,47 @@
+{
+  "chrome_extension_name": {
+    "message": "Please bring back photo grid view !"
+  },
+  "chrome_extension_description": {
+    "message": "Reactivates the carousel of thumbnails on Twitter."
+  },
+  "page_action_title": {
+    "message": "Please bring back photo grid view !"
+  },
+  
+  "engine_popup_unknown": {
+    "message": "This gallery contains a service not recognized by the extension. <br> <a href='https://github.com/blaryjp/twitter-slideshow' target='_blank'>Contact me if you want me to add this service !</a>"
+  },
+
+  "engine_popup_twimg": {
+    "message": "Twitter limits the recovery of its images 150 per hour... <br> <strong>However, you can force the download by clicking the option in the extension icon in the address bar above!</strong>"
+  },
+  
+  "popup_input_module": {
+    "message": "Module enabled"
+  },
+  
+  "popup_input_twimg": {
+    "message": "Force pic.twitter.com"
+  },
+  
+  "popup_info_twimg": {
+    "message": "Twitter limits the recovery of its images 150 per hour. However, the module can force download images using another technique, but it is more expensive in download volumes."
+  },
+  
+  "popup_info_services": {
+    "message": "Services currently managed are : Twitter, Instagram, Twitpic, Yfrog, Lockerz, Photobucket, Photozou."
+  },
+  
+  "popup_info_services_sub": {
+    "message": "Contact me if you want me to add a service !"
+  },
+  
+  "popup_reload": {
+    "message": "Please reload the page to take account of the changes."
+  },
+  
+  "popup_website": {
+    "message": "Website"
+  }
+}
