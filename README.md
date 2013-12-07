@@ -1,6 +1,15 @@
 ﻿Please bring back photo grid view !
 ===================================
 
+---
+
+Projet plus maintenu - No longer maintained
+-------------------------------------------
+
+*Update 02/02/2013*: Twitter vient de changer sa galerie.. Et il n'y a toujours pas de carrousel... :/. Donc mon extension est morte... Merci à tous les utilisateurs !
+
+---
+
 Disponible en *Français* ! - Available in *English* !
 
 Réactive le carrousel des images miniatures de Twitter. - Reactivates the carousel of thumbnails on Twitter.
