@@ -1,8 +1,6 @@
 ﻿Please bring back photo grid view !
 ===================================
 
----
-
 Projet plus maintenu - No longer maintained
 -------------------------------------------
 
